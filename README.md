@@ -1,4 +1,4 @@
-# Webcam-Auto-Brightness
+# Webcam Auto-Brightness
 ### Auto-brightness for laptops using the webcam
 
 This script grabs an image from the webcam, analyses the ambient luminosity and adjusts the screen brightness acording to it.
