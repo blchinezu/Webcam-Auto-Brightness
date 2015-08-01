@@ -25,3 +25,9 @@ or
 rm /tmp/auto-brightness-*
 
 I hope at least some of you manage to get it working :) The true thing is that it can't really be made generic as there are too many particular settings for each computer
+
+You can donate through PayPal at [brucelee.duckdns.org/donation/Webcam-Auto-Brightness](http://brucelee.duckdns.org/donation/Webcam-Auto-Brightness)
+
+    Since I can't directly add the PayPal donation button here, I've created a simple page
+    which has the Donate button.
+    
